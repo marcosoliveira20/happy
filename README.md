@@ -8,5 +8,19 @@ Projeto desenvolvido na nlw com a idealização feita pela Rockseat. O projeto v
 
 - [x] Landing paga (Web)
 - [x] Página com mapa (Web)
-- [ ] Aplicativo
-- [ ] API rest
+- [x] API rest
+
+### Como executar? 
+
+```
+cd backend 
+yarn install
+yarn start
+
+cd .. 
+
+cd happy/web
+yarn install
+yarn start
+
+```
