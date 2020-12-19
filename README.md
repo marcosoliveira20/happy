@@ -13,11 +13,11 @@ Projeto desenvolvido na nlw com a idealização feita pela Rockseat. O projeto v
 ### Como executar? 
 
 ```
-cd backend 
+cd happy/backend 
 yarn install
 yarn start
 
-cd .. 
+#Em um novo terminal execute os seguintes passos
 
 cd happy/web
 yarn install
